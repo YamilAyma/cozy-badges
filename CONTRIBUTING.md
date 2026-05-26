@@ -50,7 +50,7 @@ To ensure all badges maintain a cohesive and beautiful style, we strongly recomm
 ### 📐 1. Get the Official Template
 
 Simply open our community file, duplicate it to your drafts, and start adding your badges:
-👉 **[Figma Template Link]()**
+👉 **[Figma Template Link](https://www.figma.com/community/file/1640980234656264105)**
 
 ### 📤 2. Critical Export Settings
 
@@ -62,13 +62,15 @@ When exporting your new badge from Figma as an SVG, please follow these crucial 
 * **Clean SVG Export:** Select your badge frame, go to the Export panel, choose **SVG**, click on the export options dropdown (the three dots `...`), and **uncheck "Include id attribute"**. This keeps the generated SVG code clean and compatible with our pipeline.
 
 ### 🏷️ 3. Custom Capitalization Exceptions (Optional)
+
 If your technology name requires a specific capitalization that doesn't follow standard casing rules (e.g., `HTML5` instead of `Html5`, `Node.js` instead of `Nodejs`, or `TailwindCSS` instead of `Tailwindcss`):
-*   **Do not edit any JavaScript code.**
-*   Simply open the **[`scripts/exceptions.json`](./scripts/exceptions.json)** file.
-*   Add a new line at the end with the file's base name (in lowercase) and your custom formatted name:
-    ```json
-    "mytech": "MyTech"
-    ```
+
+* **Do not edit any JavaScript code.**
+* Simply open the **[`scripts/exceptions.json`](./scripts/exceptions.json)** file.
+* Add a new line at the end with the file's base name (in lowercase) and your custom formatted name:
+  ```json
+  "mytech": "MyTech"
+  ```
 
 ---
 
