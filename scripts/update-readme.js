@@ -127,9 +127,9 @@ async function run() {
 
   badgesData.forEach(badge => {
     // We use a relative path for the preview in the local repo README (100% portable)
-    const preview = `<img src="${badge.localPath}" width="120" alt="${badge.techName}" />`;
+    const preview = `<img src="${badge.localPath}" width="150" alt="${badge.techName}" />`;
     const markdownCode = `\`![${badge.techName}](${badge.cdnUrl})\``;
-    const htmlCode = `\`<img src="${badge.cdnUrl}" alt="${badge.techName}" width="120" />\``;
+    const htmlCode = `\`<img src="${badge.cdnUrl}" alt="${badge.techName}" width="150" />\``;
     
     markdownTable += `| ${preview} | **${badge.techName}** | **Markdown:**<br>${markdownCode}<br><br>**HTML:**<br>${htmlCode} |\n`;
   });
