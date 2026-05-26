@@ -5,7 +5,8 @@
   "main": "scripts/update-readme.js",
   "scripts": {
     "build": "node scripts/update-readme.js",
-    "commit": "node scripts/commit-badges.js"
+    "commit": "node scripts/commit-badges.js",
+    "rename": "node scripts/rename-badges.js"
   },
   "keywords": [
     "badges",

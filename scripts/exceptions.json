@@ -21,5 +21,8 @@
   "huggingface": "Hugging Face",
   "hugging-face": "Hugging Face",
   "github": "GitHub",
-  "gitlab": "GitLab"
+  "gitlab": "GitLab",
+  "aws": "AWS",
+  "cpp": "C++",
+  "csharp": "C#"
 }
