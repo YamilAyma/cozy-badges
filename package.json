@@ -1,0 +1,24 @@
+{
+  "name": "cozy-badges",
+  "version": "1.0.0",
+  "description": "A collection of beautiful, rounded, and aesthetic developer badges/shields.",
+  "main": "scripts/update-readme.js",
+  "scripts": {
+    "build": "node scripts/update-readme.js",
+    "commit": "node scripts/commit-badges.js"
+  },
+  "keywords": [
+    "badges",
+    "shields",
+    "cute",
+    "kawaii",
+    "developer",
+    "readme",
+    "github"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "svgo": "^3.3.2"
+  }
+}
