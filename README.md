@@ -27,6 +27,20 @@ You can use these badges directly via **jsDelivr CDN** or **GitHub Raw**. Simply
 > [!TIP]
 > It is highly recommended to use the **jsDelivr CDN** instead of GitHub Raw for production, as it provides global CDN caching and compression for ultra-fast loading.
 
+### Method 3: AI Prompt (Automatic & Simple)
+
+If you are using an AI assistant (like ChatGPT, Claude, Gemini, or Cursor) to maintain your README or portfolio, you can copy-paste the prompt below to let the AI automatically find and apply your badges:
+
+```markdown
+Please check the technologies listed in my profile/project and replace my current badges with the ones from the "Cozy Badges" repository. 
+
+Use this CDN template for the badges (using the lowercase technology name, e.g., "react", "tailwindcss", "html5", "vscode"):
+![Tech Name](https://cdn.jsdelivr.net/gh/yamilayma/cozy-badges@main/svg/tech_name.svg)
+
+If I am using HTML for custom sizing, use this template instead:
+<img src="https://cdn.jsdelivr.net/gh/yamilayma/cozy-badges@main/svg/tech_name.svg" alt="Tech Name" height="32" />
+```
+
 ---
 
 ## 📂 Gallery of Available Badges
@@ -38,6 +52,7 @@ Below is the list of all available badges. This table is auto-generated alphabet
 | Badge | Technology | Usage Links |
 | :---: | :---: | :--- |
 | <img src="./svg/android.svg" width="150" alt="Android" /> | **Android** | **Markdown:**<br>`![Android](https://raw.githubusercontent.com/yamilayma/cozy-badges/main/svg/android.svg)`<br><br>**HTML:**<br>`<img src="https://raw.githubusercontent.com/yamilayma/cozy-badges/main/svg/android.svg" alt="Android" width="150" />` |
+| <img src="./svg/apple.svg" width="150" alt="Apple" /> | **Apple** | **Markdown:**<br>`![Apple](https://raw.githubusercontent.com/yamilayma/cozy-badges/main/svg/apple.svg)`<br><br>**HTML:**<br>`<img src="https://raw.githubusercontent.com/yamilayma/cozy-badges/main/svg/apple.svg" alt="Apple" width="150" />` |
 | <img src="./svg/assembly.svg" width="150" alt="Assembly" /> | **Assembly** | **Markdown:**<br>`![Assembly](https://raw.githubusercontent.com/yamilayma/cozy-badges/main/svg/assembly.svg)`<br><br>**HTML:**<br>`<img src="https://raw.githubusercontent.com/yamilayma/cozy-badges/main/svg/assembly.svg" alt="Assembly" width="150" />` |
 | <img src="./svg/astro.svg" width="150" alt="Astro" /> | **Astro** | **Markdown:**<br>`![Astro](https://raw.githubusercontent.com/yamilayma/cozy-badges/main/svg/astro.svg)`<br><br>**HTML:**<br>`<img src="https://raw.githubusercontent.com/yamilayma/cozy-badges/main/svg/astro.svg" alt="Astro" width="150" />` |
 | <img src="./svg/aws.svg" width="150" alt="AWS" /> | **AWS** | **Markdown:**<br>`![AWS](https://raw.githubusercontent.com/yamilayma/cozy-badges/main/svg/aws.svg)`<br><br>**HTML:**<br>`<img src="https://raw.githubusercontent.com/yamilayma/cozy-badges/main/svg/aws.svg" alt="AWS" width="150" />` |
