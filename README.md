@@ -125,6 +125,7 @@ Below is the list of all available badges. This table is auto-generated alphabet
 | <img src="./svg/vscode.svg" width="150" alt="VS Code" /> | **VS Code** | **Markdown:**<br>`![VS Code](https://raw.githubusercontent.com/yamilayma/cozy-badges/main/svg/vscode.svg)`<br><br>**HTML:**<br>`<img src="https://raw.githubusercontent.com/yamilayma/cozy-badges/main/svg/vscode.svg" alt="VS Code" width="150" />` |
 | <img src="./svg/vue.svg" width="150" alt="Vue.js" /> | **Vue.js** | **Markdown:**<br>`![Vue.js](https://raw.githubusercontent.com/yamilayma/cozy-badges/main/svg/vue.svg)`<br><br>**HTML:**<br>`<img src="https://raw.githubusercontent.com/yamilayma/cozy-badges/main/svg/vue.svg" alt="Vue.js" width="150" />` |
 | <img src="./svg/whatsapp.svg" width="150" alt="Whatsapp" /> | **Whatsapp** | **Markdown:**<br>`![Whatsapp](https://raw.githubusercontent.com/yamilayma/cozy-badges/main/svg/whatsapp.svg)`<br><br>**HTML:**<br>`<img src="https://raw.githubusercontent.com/yamilayma/cozy-badges/main/svg/whatsapp.svg" alt="Whatsapp" width="150" />` |
+| <img src="./svg/yarn.svg" width="150" alt="Yarn" /> | **Yarn** | **Markdown:**<br>`![Yarn](https://raw.githubusercontent.com/yamilayma/cozy-badges/main/svg/yarn.svg)`<br><br>**HTML:**<br>`<img src="https://raw.githubusercontent.com/yamilayma/cozy-badges/main/svg/yarn.svg" alt="Yarn" width="150" />` |
 
 <!-- END_BADGES -->
 
